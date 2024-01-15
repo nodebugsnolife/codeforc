@@ -1,0 +1,2 @@
+C:\code\TEST1\x64\Debug\TEST1.exe
+D:\Code\TEST1\x64\Debug\TEST1.exe
